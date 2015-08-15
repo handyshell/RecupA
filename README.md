@@ -11,10 +11,10 @@ mais bon pour nous qui ne voulons rien avoir à faire de toute cette maniplation
 voici ce qu'il nous faut "RecupA".
 ======================================================================
 
-# ABOUT_all
+#*Pour tout  savoir sur Recupa, follow this link:
 
  http://www.handyshell.github.io/recupa 
- ===================================================================================================================
+ ===========================================================================================
 
 #*Download Here!
 
