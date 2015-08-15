@@ -20,4 +20,4 @@ voici ce qu'il nous faut "RecupA".
 
 http://www.4shared.com/zip/y2_TcsOpba/RecupA-Insta-Use.htm
 
-*#Sources comes soon!
+#Sources are soon!
